@@ -1,5 +1,7 @@
 # SignedShadowCasting2021
 
+##This version is obsolete. Please refer to the more [recent verion](https://github.com/cfms-lab/Tomo_GPU2024).
+
 Python version implementation of the paper,
 
 "Support structure tomography 
