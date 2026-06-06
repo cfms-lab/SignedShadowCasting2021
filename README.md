@@ -2,9 +2,7 @@
 
 ## This version is obsolete. Please refer to the more [recent verion](https://github.com/cfms-lab/Tomo_GPU2024).
 
-<span style="color:gray">
-  
-Python version implementation of the paper,
+<span style="color:gray">  Python version implementation of the paper, </span>
 
 "Support structure tomography 
 using per-pixel signed shadow casting 
